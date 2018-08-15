@@ -16,7 +16,7 @@
     }
   },
   "require": {
-    "bueno-networks/php-css-parser": "8.2.0.1*"
+    "bueno-networks/php-css-parser": "8.2.0.1"
   },
   "require-dev": {
     "phpunit/phpunit": "~5.0"
